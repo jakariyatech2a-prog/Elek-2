@@ -1,0 +1,6 @@
+{
+  "name": "Elek ai",
+  "description": "Elek ai is a premium, state-of-the-art AI Super App that provides AI Chat, high-quality Image & Video generation, Natural Voice Assistant, translations, and multi-language support in a single, beautiful dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
